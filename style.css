@@ -1,0 +1,150 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma-rtl.min.css";
+
+.cover-background{
+  background-image: url(https://lithohtml.themezaa.com/images/home-freelancer-bg-img-01.jpg);
+}
+
+.cover-background .full-screen {
+  height: 1010px;
+  background-position: center center;
+  position: relative;
+  background-size: cover;
+  padding: 0;
+  box-sizing: border-box;
+  display: block;
+}
+
+.cover-background .full-screen .title {
+  font-weight: 600;
+  color: rgb(#232323);
+  letter-spacing: -10px;
+  line-height: 1000px;
+  margin-top: auto;
+  margin-bottom: 0;
+  font-size: 9rem;
+  font-family: 'Poppins';
+  margin-left: 300px;
+  display: block;
+  box-sizing: border-box;
+}
+
+.cover-background .full-screen .name {
+  font-weight: 600;
+  color: rgb(#23232300);
+  letter-spacing: -5px;
+  line-height: 0px;
+  margin-top: -400px;
+  font-size: 9rem;
+  font-family: 'Poppins';
+  margin-left: 300px;
+  display: block;
+  box-sizing: border-box;
+}
+
+.text-border {
+  font-size: 65px;
+  letter-spacing: -5px;
+}
+
+
+.circle-image {
+  margin-left: -60px;
+  margin-top: 30px;
+}
+
+.circle-image1 img{
+  margin-left: 720px;
+  margin-top: -260px;
+  border-radius: 50%;
+}
+
+.box {
+  margin-left: 120px;
+  margin-top: -50px;
+}
+
+.circle-image1 .experience {
+  font-size: 220px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 650;
+  letter-spacing: -10px;
+  margin-top: -335px;
+  margin-left: 880px;
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-image: url(https://lithohtml.themezaa.com/images/home-freelancer-text-bg.jpg);
+}
+
+.circle-image1 .years {
+  font-size: 35px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 250;
+  margin-top: -200px;
+  margin-left: 1162px;
+  color: #222121;
+}
+.circle-image1 .years1 {
+  font-size: 35px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 550;
+  letter-spacing: -2px;
+  margin-top: -10px;
+  margin-left: 1150px;
+  color: #222121;
+}
+
+.columns .column .expertise {
+  margin-left: 140px;
+  font-weight: 450;
+}
+.columns .column .expertise1 {
+  margin-left: 140px;
+  font-weight: 700;
+}
+
+.columns .column .bornin {
+margin-left: 50px;
+font-weight: 450;
+}
+.columns .column .bornin1 {
+  margin-left: 50px;
+  font-weight: 700;
+  }
+
+  .columns .column .birthdate {
+    font-weight: 450;
+  }
+
+  .columns .column .birthdate1 {
+    font-weight: 700;
+  }
+
+  .columns .column .education {
+font-weight: 450;
+  }
+
+  .columns .column .education1 {
+    font-weight: 700;
+  }
+
+
+  .flex-container{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1000px;
+    gap: 40px;
+    margin: 20px auto;
+  }
+
+
+  .item {
+    max-width: px;
+    height: 250px;
+    background-color: #bbb;
+    flex: 1 1 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
